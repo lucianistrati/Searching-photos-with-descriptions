@@ -8,3 +8,5 @@ Also, another cool stuff for searching pictures or any files honestly would be t
 - check files that were created / modified only on one specific day and as well those that contain a description / transcription similar to what you write ( with a possiblity of using a slider of similarity
 - being able to see maybe 2 items if you set 95% similarity between your input and the actual description of the text or 10 items if you set 90% similarity between that same input-description text sim)
 - selecting two (or more) pictures/files which might be duplicated and being able to perhaps automatically delete them (also with a slider of similarity)
+- selecting who created / modified the file
+- sorting the files on some other arbitrarly assigned criterias (especially the ones influenced by the transcription of the video
