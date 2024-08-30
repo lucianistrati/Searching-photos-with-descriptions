@@ -11,4 +11,3 @@ Also, another cool stuff for searching pictures or any files honestly would be t
 - selecting who created / modified the file
 - sorting the files on some other arbitrarly assigned criterias (especially the ones influenced by the transcription of the video
 
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://stand-with-ukraine.pp.ua)
